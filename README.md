@@ -1,4 +1,4 @@
-#MySQL Dataset Cleaning Project
+# MySQL Dataset Cleaning Project
 
 ## Overview
 This project involves cleaning the World Layoffs dataset using MySQL Workbench. The goal is to ensure data quality and consistency for further analysis. The process includes creating a SQL database, importing the dataset, and performing various cleaning steps.
