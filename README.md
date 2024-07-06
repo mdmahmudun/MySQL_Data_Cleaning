@@ -32,7 +32,3 @@ Columns and rows that were not relevant to the analysis were removed to streamli
 - **scripts/**: SQL scripts used for data cleaning.
 - **README.md**: Project documentation.
 
-## How to Use
-1. **Clone the Repository**
-   ```bash
-   git https://github.com/mdmahmudun/MySQL_Data_Cleaning_EDA.git
