@@ -1,7 +1,7 @@
-# MySQL Dataset Cleaning Project
+# MySQL Project (Data Cleaning and EDA)
 
 ## Overview
-This project involves cleaning the World Layoffs dataset using MySQL Workbench. The goal is to ensure data quality and consistency for further analysis. The process includes creating a SQL database, importing the dataset, and performing various cleaning steps.
+This project involves cleaning the World Layoffs dataset and doing EDA using MySQL Workbench. The goal is to ensure data quality and consistency for further analysis. The process includes creating a SQL database, importing the dataset, and performing various cleaning steps.
 
 ## Dataset
 The dataset used for this project is the World Layoffs dataset, which contains records of layoffs across different companies and sectors.
@@ -22,6 +22,7 @@ Null and blank values were addressed to prevent gaps in the dataset. This step i
 
 ### 4. Remove Unnecessary Columns and Rows
 Columns and rows that were not relevant to the analysis were removed to streamline the dataset and improve performance.
+### 5. Exploratory Data Analysis
 
 ## Tools Used
 - **MySQL Workbench:** For creating the database, importing the dataset, and executing SQL queries for data cleaning.
@@ -34,4 +35,4 @@ Columns and rows that were not relevant to the analysis were removed to streamli
 ## How to Use
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/world-layoffs-data-cleaning.git
+   git https://github.com/mdmahmudun/MySQL_Data_Cleaning_EDA.git
